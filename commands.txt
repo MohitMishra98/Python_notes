@@ -1,0 +1,8 @@
+create a conda environment
+conda create -n py-code python=3.12
+
+activate conda
+conda activate py-code
+
+deactivate conda
+conda deactivate

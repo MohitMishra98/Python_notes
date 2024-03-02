@@ -1,0 +1,15 @@
+in the reading and writing in a .txt file 
+there are pointers
+reading and writing is affected due to location of pointer
+location of pointer is the location where reading and writing occured most recently
+reading and writing will occured from the location of pointer
+if the pointer is located at the mid of file
+then reading file will only output the data after that pointer
+
+
+
+modes of reading and writing in a file
+
+r+  (read+overwrite)  (pointer is placed at starting of the file)   (file is not truncated at the moment of opening)
+w+  (read+overwrite)  (pointer is placed at starting of the file)   (file is truncated at the moment of opening)
+a+  (read+append)     (pointer is placed at end of the file)        (file is not truncated at the moment of opening)

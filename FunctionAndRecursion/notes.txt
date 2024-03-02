@@ -1,0 +1,5 @@
+whenever we have to just print using recursion and to return any value using function
+then do not write anything below the recursive calling line
+
+if we have to return value using recursive function then 
+then use if else and in else write return then recursive call inside that else
